@@ -1,0 +1,10 @@
+{
+  "name": "kit-utilidades",
+  "version": "1.0.0",
+  "description": "Kit de utilidades generado y revisado con GitHub Copilot (Módulo 1)",
+  "type": "module",
+  "scripts": {
+    "demo": "node demo.js",
+    "carrito": "node carrito.js"
+  }
+}
